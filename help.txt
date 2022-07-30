@@ -1,0 +1,7 @@
+How to implement the logic of
+-search
+-sort
+-pagination 
+-select and delete 
+-edit 
+in java script

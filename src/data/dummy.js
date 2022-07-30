@@ -462,7 +462,7 @@ export const links = [
         icon: <RiContactsLine />,
       },
       {
-        name: 'portfolio',
+        name: 'portfolio (ongoing...)',
         icon: <IoMdPerson />,
       },
     ],

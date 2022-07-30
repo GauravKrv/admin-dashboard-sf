@@ -21,7 +21,7 @@ const Portfolio = () => {
         
             <div className='flex px-1'><ImGithub className='mt-1'/><a href='https://github.com/gauravkrv' className='px-2 '>Github</a></div>
         
-            <div className='flex px-1'><IoCall className='mt-1'/><a href='mailto:gauravkrvbzi@gmail.com?subject=Looking%Forward?body=Hi%there' className='px-2 '>Contact-me</a></div>
+            <div className='flex px-1'><IoCall className='mt-1'/><a href='mailto:gauravkrvbzi@gmail.com?subject=Looking%Forward?body=Hi%there' className='px-2 '>Contact</a></div>
         
          </div>
    {/* //TODO: MAKE ABOVE Navbar RESPONSIVEs */}
